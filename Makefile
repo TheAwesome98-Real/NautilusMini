@@ -1,9 +1,12 @@
 TARGET = NautilusMini
 OBJS = src/main.o
 
-CFLAGS =
+CFLAGS = -Wall -g -O2
 CXXFLAGS = $(CFLAGS) -std=c++14 -fno-rtti
 ASFLAGS = $(CFLAGS)
+
+LDFLAGS =
+LIBS= -lpspgum -lpspgu
 
 # PSP Stuff
 BUILD_PRX = 1
