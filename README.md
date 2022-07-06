@@ -1,5 +1,5 @@
 # NautilusMini
-CMFMPSP alternative inspired by GNOME Files
+Alternative for CMFileManager PSP inspired by GNOME Files
 
 ## TODO
 
