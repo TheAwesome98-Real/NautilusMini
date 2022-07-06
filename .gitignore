@@ -53,3 +53,8 @@ dkms.conf
 
 # vscode stuff
 .vscode
+
+# PSP Build objects
+*.PBP
+*.PRX
+*.SFO
