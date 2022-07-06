@@ -58,3 +58,6 @@ dkms.conf
 *.PBP
 *.PRX
 *.SFO
+*.pbp
+*.prx
+*.sfo
